@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sumit778285/java/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sumit778285/java/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sumit778285/java/tree/master/0009-palindrome-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sumit778285/java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

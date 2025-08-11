@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumit778285/java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sumit778285/java/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/sumit778285/java/tree/master/0066-plus-one) |
+| [0119-pascals-triangle-ii](https://github.com/sumit778285/java/tree/master/0119-pascals-triangle-ii) |
 ## String
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sumit778285/java/tree/master/0100-same-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/sumit778285/java/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
